@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 5rem;
+}
+
+.numberWin, .numberTie, .numberLoss {
+    font-size: 3rem;
+}
+
+.hideLoss, .hideWin, .hideTie {
+    display: none;
+}
+
+.buttonW {
+    width: 6rem;
+}
